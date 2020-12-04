@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607054480 source:c:\users\gabri\onedrive\documentos\proyectos c++\proyectoreloj\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+
